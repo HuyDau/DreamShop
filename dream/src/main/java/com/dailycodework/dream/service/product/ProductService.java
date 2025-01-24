@@ -2,7 +2,6 @@ package com.dailycodework.dream.service.product;
 
 import com.dailycodework.dream.dto.ImageDto;
 import com.dailycodework.dream.dto.ProductDto;
-import com.dailycodework.dream.exceptions.ProductNotFoundException;
 import com.dailycodework.dream.exceptions.ResourceNotFoundException;
 import com.dailycodework.dream.model.Product.Category;
 import com.dailycodework.dream.model.Product.Image;
